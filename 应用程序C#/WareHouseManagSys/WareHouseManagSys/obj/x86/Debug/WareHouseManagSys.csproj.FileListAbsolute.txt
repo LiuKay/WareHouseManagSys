@@ -1,0 +1,35 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\WareHouseManagSys\WareHouseManagSys\bin\Debug\WareHouseManagSys.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\WareHouseManagSys\WareHouseManagSys\bin\Debug\WareHouseManagSys.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.Form1.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2010\Projects\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.pdb
+E:\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.exe
+E:\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.pdb
+E:\数据库课设\WareHouseManagSys\WareHouseManagSys\bin\Debug\WareHouseManagSys.exe
+E:\数据库课设\WareHouseManagSys\WareHouseManagSys\bin\Debug\WareHouseManagSys.pdb
+E:\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.Form1.resources
+E:\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.Properties.Resources.resources
+E:\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.exe
+C:\Documents and Settings\Administrator\桌面\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.pdb
+C:\Documents and Settings\Administrator\桌面\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.Form1.resources
+C:\Documents and Settings\Administrator\桌面\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\数据库课设\WareHouseManagSys\WareHouseManagSys\bin\Debug\WareHouseManagSys.exe
+C:\Documents and Settings\Administrator\桌面\数据库课设\WareHouseManagSys\WareHouseManagSys\bin\Debug\WareHouseManagSys.pdb
+C:\Documents and Settings\Administrator\桌面\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.Form2.resources
+C:\Users\Administrator\Desktop\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.exe
+C:\Users\Administrator\Desktop\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.pdb
+C:\Users\Administrator\Desktop\数据库课设\WareHouseManagSys\WareHouseManagSys\bin\Debug\WareHouseManagSys.exe
+C:\Users\Administrator\Desktop\数据库课设\WareHouseManagSys\WareHouseManagSys\bin\Debug\WareHouseManagSys.pdb
+C:\Users\Administrator\Desktop\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.Form1.resources
+C:\Users\Administrator\Desktop\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.Form2.resources
+C:\Users\Administrator\Desktop\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.Properties.Resources.resources
+C:\Users\Administrator\Desktop\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\数据库课设\WareHouseManagSys\WareHouseManagSys\obj\x86\Debug\WareHouseManagSys.csprojResolveAssemblyReference.cache
