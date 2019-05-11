@@ -1,4 +1,12 @@
 # WareHouseManagSys
+
+*说明：本系统为本人大学时的数据库课程设计。*
+
+开发环境：
+数据库：SQLServer 2008r2
+IDE：VS2010
+C# 
+
 仓库管理系统文件：截图，SQL，源代码
 
 
