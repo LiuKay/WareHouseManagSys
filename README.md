@@ -1,5 +1,13 @@
 # WareHouseManagSys
 
+仓库：
+
+github: https://github.com/LiuKay/WareHouseManagSys
+
+gitee: https://gitee.com/kaybee/WareHouseManagSys
+
+-----
+
 *说明：本系统为本人大学时的数据库课程设计，主要侧重点在于 数据库设计和 SQL 编写*
 
 开发环境：
